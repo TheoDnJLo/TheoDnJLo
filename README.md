@@ -1,5 +1,5 @@
-### Hi there 👋
-### I'm Sarthak
+## Hi there 👋
+# I'm Sarthak
 
 - 🔭 I’m currently working on making my dreams solid.
 - 🌱 I’m currently learning to learn.
