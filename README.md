@@ -1,5 +1,6 @@
-# It's-a me, Sarthak!
+# It's-a Me, Sarthak!
 ## Hi there 👋
+
 
 - 🔭 I’m currently working on making my dreams solid.
 - 🌱 I’m currently learning to learn.
