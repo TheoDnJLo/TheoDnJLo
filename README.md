@@ -1,6 +1,9 @@
 # It's-a Me, Sarthak!
-##   Hi there 👋
+## Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 - 🔭 I’m currently working on making my dreams solid.
 - 🌱 I’m currently learning to learn.
